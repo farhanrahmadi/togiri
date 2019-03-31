@@ -36,7 +36,7 @@ export default {
   .msg {
     position: absolute;
     width: 100%;
-    top: 35%;
+    top: calc(35% + 100px);
     color: white;
     z-index: 3;
     font-family: 'PT Sans', sans-serif;

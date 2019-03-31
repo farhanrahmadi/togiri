@@ -37,7 +37,7 @@ export default {
   }
 
   .divider {
-    height: 80px;
+    height: calc(80px + 100px);
   }
 
   .logo-holder {

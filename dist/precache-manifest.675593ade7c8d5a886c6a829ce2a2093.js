@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/js/about.330ce9ef.js"
   },
   {
-    "revision": "016e555628bc7671b99d",
-    "url": "/css/app.def5ce3f.css"
+    "revision": "51aa4f623c701b3eacc9",
+    "url": "/css/app.11b32ee6.css"
   },
   {
-    "revision": "016e555628bc7671b99d",
-    "url": "/js/app.f626a7bd.js"
+    "revision": "51aa4f623c701b3eacc9",
+    "url": "/js/app.34fb40f4.js"
   },
   {
     "revision": "eb07ea3f982ed948e120",
@@ -24,14 +24,6 @@ self.__precacheManifest = [
     "url": "/img/togiri-logo.523a034e.png"
   },
   {
-    "revision": "5df740ad5298ddbce4270dd3b2004287",
-    "url": "/img/togiri-only-logo.5df740ad.png"
-  },
-  {
-    "revision": "70e11ec4a58d26ea5aa336476750da82",
-    "url": "/img/about.70e11ec4.jpg"
-  },
-  {
     "revision": "3971632e723f5d70208511d4d9607dc3",
     "url": "/img/ba.3971632e.png"
   },
@@ -40,11 +32,19 @@ self.__precacheManifest = [
     "url": "/img/stevedoring.fac851b4.jpg"
   },
   {
+    "revision": "5df740ad5298ddbce4270dd3b2004287",
+    "url": "/img/togiri-only-logo.5df740ad.png"
+  },
+  {
+    "revision": "70e11ec4a58d26ea5aa336476750da82",
+    "url": "/img/about.70e11ec4.jpg"
+  },
+  {
     "revision": "00c31d898f7a128043c60dec4608b686",
     "url": "/img/underwater.00c31d89.jpg"
   },
   {
-    "revision": "3af13686c4871dd3d4a3e79e637fb311",
+    "revision": "5ad655bf711e508030b472586fc551d6",
     "url": "/index.html"
   },
   {
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "d24ac39ec2b44d9eeaf21925f5385a89",
-    "url": "/images/icons/icon-144x144.png"
-  },
-  {
     "revision": "d8ee4a1c64134c995c6b90b275d4ffaf",
     "url": "/images/icons/icon-152x152.png"
+  },
+  {
+    "revision": "d24ac39ec2b44d9eeaf21925f5385a89",
+    "url": "/images/icons/icon-144x144.png"
   },
   {
     "revision": "b70c73afb68778d337c285e48dcd97df",

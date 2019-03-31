@@ -206,7 +206,7 @@ export default {
 
 <style scoped lang="scss">
   .container {
-    padding: 7% 0;
+    padding: calc(5% + 100px) 0;
   }
 
   .columns {

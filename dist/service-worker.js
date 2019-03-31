@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c940ad922755a62b4f77b51d1e367d7c.js"
+  "/precache-manifest.675593ade7c8d5a886c6a829ce2a2093.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "new_togiri"});

@@ -171,7 +171,7 @@ export default {
 
 <style scoped lang="scss">
   .wrapper{
-    padding: 5% 0;
+    padding: calc(5% + 100px) 0;
   }
   .title {
     text-align: center;
