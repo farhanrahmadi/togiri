@@ -27,7 +27,7 @@ export default {
 <style scoped>
   nav {
     width: 100vw;
-    height: 120px;
+    height: 100px;
     background-color: #183650;
     padding-left: 10%;
     padding-right: 10%;
